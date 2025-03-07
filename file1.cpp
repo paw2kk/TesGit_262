@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "Nama Kalian";
+    cout << "Aufa Maha Dana";
     cout << "Bantul";
 }
